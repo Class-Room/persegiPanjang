@@ -2,12 +2,14 @@ persegiPanjang
 ==============
 
 Berikut Script persegi panjang bahasa C
+
+```
 #include <iostream>
 using namespace std;
 
 int main()
 {
-    double panjang, lebar;
+    #double panjang, lebar;
 
     panjang = 20;
     lebar = 10;
@@ -20,7 +22,8 @@ int main()
 
     return 0;
 }
+```
 
 Perintah :
-1. Edit berdasarkan kreatifitas kamu
-2. tambahkan perhitungan Luas Persegi panjang.
+* Edit berdasarkan kreatifitas kamu
+* tambahkan perhitungan Luas Persegi panjang.
