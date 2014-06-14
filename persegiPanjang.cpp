@@ -8,8 +8,6 @@ int main()
     panjang = 20;
     lebar = 10;
 
-    double keliling;
-    float Luas;
     keliling = 2 * panjang + lebar;
 	Luas = panjang*lebar;
 
